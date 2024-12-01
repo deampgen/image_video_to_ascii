@@ -95,7 +95,7 @@ def video_to_ascii(video_path, new_width=100):
 
 
 
-output_path = r'C:\Users\deampgen\Desktop\projects\amina_ascii.txt'
-ascii_art = image_to_ascii(r'C:\Users\deampgen\Desktop\amina.jpg')
+output_path = r'your_path'
+ascii_art = image_to_ascii(r'where_you_save_it')
 save_to_file(ascii_art, output_path)
 
